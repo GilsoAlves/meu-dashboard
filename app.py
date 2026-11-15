@@ -4,7 +4,7 @@ import pandas as pd
 
 st.set_page_config(page_title="dashboard", layout="wide")
 
-st.title("Meu primeiro Dasboard")
+st.title("Gsatec Dasboard")
 
 dados = pd.DataFrame({
     "Mês": ["Jan", "Fev", "Mar","Abr", "Mai", "Jun" ],
